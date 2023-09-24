@@ -22,7 +22,7 @@ Performing text classification on a consumer complaint dataset involves several 
   - Random Forest
   - Support Vector Machine
   - Neural Networks (e.g., LSTM, CNN)
-- Train multiple models with different algorithms and hyperparameters to compare their performance.
+- I have used Random Forest Classifier.
 
 **Step 4: Comparison of Model Performance**
 - Train the selected models on the training dataset.
